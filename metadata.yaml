@@ -1,0 +1,28 @@
+_repo: The-Morris-Book-Part-1--13-A-History-of-Morris-Dancing-With-a-Description-of-Eleven-Dances-as__12926
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Sharp, Cecil J. (Cecil James)
+    birthdate: 1859
+    deathdate: 1924
+    gutenberg_agent_id: '4718'
+    url: http://www.gutenberg.org/2009/agents/4718
+  - agent_name: MacIlwaine, Herbert C.
+    gutenberg_agent_id: '39965'
+    url: http://www.gutenberg.org/2009/agents/39965
+description: ''
+gutenberg_issued: '2004-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12926'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Morris dance'
+- GITenberg
+title: "The Morris Book, Part 1\r\nA History of Morris Dancing, With a Description\
+  \ of Eleven Dances as Performed by the Morris-Men of England"
+url: http://www.gutenberg.org/ebooks/12926
